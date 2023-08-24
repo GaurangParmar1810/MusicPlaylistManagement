@@ -1,0 +1,12 @@
+Song Name:Tere Bina
+Artist Name:Arijit Singh
+Year of Release:2019
+Duration Of the song:200
+Category of the song:Happy
+
+Song Name:Mere Sanam
+Artist Name:Armaan Malik
+Year of Release:2020
+Duration Of the song:232
+Category of the song:Happy
+

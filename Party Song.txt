@@ -1,0 +1,12 @@
+Song Name:Let's Rock
+Artist Name:E-Trax
+Year of Release:2001
+Duration Of the song:150
+Category of the song:Party
+
+Song Name:Let's Party
+Artist Name:Badshah
+Year of Release:2018
+Duration Of the song:200
+Category of the song:Party
+

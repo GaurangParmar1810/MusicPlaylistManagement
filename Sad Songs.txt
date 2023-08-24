@@ -1,0 +1,12 @@
+Song Name:Tum hi ho
+Artist Name:Arijit Singh
+Year of Release:2018
+Duration Of the song:232
+Category of the song:Sad
+
+Song Name:Tere Bina
+Artist Name:Armaan Malik
+Year of Release:2019
+Duration Of the song:202
+Category of the song:Sad
+

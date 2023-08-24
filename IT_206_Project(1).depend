@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1623656134 source:d:\c project\it_206_project(1)\main.cpp
+	<bits/stdc++.h>
+	"Song.h"
+	"createplaylist.h"
+
+1623592851 d:\c project\it_206_project(1)\include\song.h
+	<iostream>
+
+1623655727 source:d:\c project\it_206_project(1)\src\createplaylist.cpp
+	"createplaylist.h"
+	<bits/stdc++.h>
+
+1623398403 d:\c project\it_206_project(1)\include\createplaylist.h
+	<bits/stdc++.h>
+
+1623656027 source:d:\c project\it_206_project(1)\src\song.cpp
+	"Song.h"
+	"CreatePlayList.h"
+	<bits/stdc++.h>
+	<windows.h>
+
+1623752264 source:d:\study\sem2\it_206_project(1)\main.cpp
+	<bits/stdc++.h>
+	"Song.h"
+	"createplaylist.h"
+
+1623592851 d:\study\sem2\it_206_project(1)\include\song.h
+	<iostream>
+
+1623398403 d:\study\sem2\it_206_project(1)\include\createplaylist.h
+	<bits/stdc++.h>
+
+1623655727 source:d:\study\sem2\it_206_project(1)\src\createplaylist.cpp
+	"createplaylist.h"
+	<bits/stdc++.h>
+
+1623751481 source:d:\study\sem2\it_206_project(1)\src\song.cpp
+	"Song.h"
+	"CreatePlayList.h"
+	<bits/stdc++.h>
+	<windows.h>
+
+1623836040 source:d:\study\sem2\it_206_project_final\src\createplaylist.cpp
+	"createplaylist.h"
+	<bits/stdc++.h>
+
+1623836620 d:\study\sem2\it_206_project_final\include\createplaylist.h
+	<bits/stdc++.h>
+
+1623844879 source:d:\study\sem2\it_206_project_final\src\song.cpp
+	"Song.h"
+	"CreatePlayList.h"
+	<bits/stdc++.h>
+	<windows.h>
+
+1623816817 d:\study\sem2\it_206_project_final\include\song.h
+	<iostream>
+
+1623838466 source:d:\study\sem2\it_206_project_final\main.cpp
+	<bits/stdc++.h>
+	"Song.h"
+	"createplaylist.h"
+
+1623838466 source:d:\study\sem2\music_playlist_202001133_202001444_code file\main.cpp
+	<bits/stdc++.h>
+	"Song.h"
+	"createplaylist.h"
+
+1623816817 d:\study\sem2\music_playlist_202001133_202001444_code file\include\song.h
+	<iostream>
+
+1623836620 d:\study\sem2\music_playlist_202001133_202001444_code file\include\createplaylist.h
+	<bits/stdc++.h>
+
+1623836040 source:d:\study\sem2\music_playlist_202001133_202001444_code file\src\createplaylist.cpp
+	"createplaylist.h"
+	<bits/stdc++.h>
+
+1623845524 source:d:\study\sem2\music_playlist_202001133_202001444_code file\src\song.cpp
+	"Song.h"
+	"CreatePlayList.h"
+	<bits/stdc++.h>
+	<windows.h>
+
+1623838466 source:d:\study\sem2\music_playlist_202001133_202001444\music_playlist_202001133_202001444_code file\main.cpp
+	<bits/stdc++.h>
+	"Song.h"
+	"createplaylist.h"
+
+1623816817 d:\study\sem2\music_playlist_202001133_202001444\music_playlist_202001133_202001444_code file\include\song.h
+	<iostream>
+
+1623836620 d:\study\sem2\music_playlist_202001133_202001444\music_playlist_202001133_202001444_code file\include\createplaylist.h
+	<bits/stdc++.h>
+
+1623836040 source:d:\study\sem2\music_playlist_202001133_202001444\music_playlist_202001133_202001444_code file\src\createplaylist.cpp
+	"createplaylist.h"
+	<bits/stdc++.h>
+
+1623856400 source:d:\study\sem2\music_playlist_202001133_202001444\music_playlist_202001133_202001444_code file\src\song.cpp
+	"Song.h"
+	"CreatePlayList.h"
+	<bits/stdc++.h>
+	<windows.h>
+
